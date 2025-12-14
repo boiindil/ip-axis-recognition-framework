@@ -1,0 +1,19 @@
+recognition_layer:
+  recognition_modes:
+    human:
+      voluntary: true
+      interpretative: true
+      non_binding: true
+    artificial_intelligence:
+      enabled: true
+      functions:
+        - pattern_detection
+        - semantic_alignment
+        - relational_visibility
+      explicit_limitations:
+        - no_decision_authority
+        - no_prioritization
+        - no_enforcement
+  non_recognition:
+    permitted: true
+    without_consequence: true

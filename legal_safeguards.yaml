@@ -1,0 +1,13 @@
+legal_safeguards:
+  legal_nature: analytical_reference_model
+  organization_created: false
+  obligations_created: false
+  liability:
+    author_liability_for_third_party_actions: false
+  competition_law:
+    market_coordination: false
+    price_signaling: false
+    collusion_risk: false
+  regulatory_position:
+    eu_ai_act_risk_level: minimal
+    data_processing: none

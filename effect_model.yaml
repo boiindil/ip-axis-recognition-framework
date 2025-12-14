@@ -1,0 +1,17 @@
+effect_model:
+  effect_type: indirect_structural_effect
+  causality: recognition_based
+  coercion: none
+  possible_positive_effects:
+    individual_level:
+      - improved_orientation
+      - informed_self_decision
+      - reduced_structural_uncertainty
+    systemic_level:
+      - increased_legibility_of_ip_ecosystems
+      - coexistence_of_diverse_models
+      - reduction_of_false_conflicts
+  excluded_effects:
+    - behavioral_enforcement
+    - coordination_requirement
+    - collective_action_trigger

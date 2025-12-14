@@ -1,0 +1,15 @@
+axis_definition:
+  axis_id: STRUCTURAL_RECOGNITION_AXIS
+  nature: descriptive
+  binding_force: none
+  purpose:
+    - enable_legibility
+    - support_self_positioning
+    - allow_coexistence_without_coordination
+  directionality:
+    from: isolated_or_unarticulated_ip_positions
+    to: recognizable_and_contextualized_ip_positions
+  activation:
+    exists_independently_of_recognition: true
+    recognition_required_for_effects: true
+    participation_required: false

@@ -1,0 +1,13 @@
+coexistence_model:
+  coexistence_type: non_interfering_parallelism
+  relationships:
+    hierarchy: none
+    dependency: none
+    coordination: none
+  compatibility:
+    conservative_enterprises: true
+    startups: true
+    cloud_platforms: true
+    ai_systems: true
+    individual_actors: true
+    institutions: true
