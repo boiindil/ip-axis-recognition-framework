@@ -103,6 +103,10 @@ It does not indicate any project, application, or funding activity.
 
 ## License
 
-This work is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+This repository is distributed under the MIT License.
 
-You are free to read, reference, and cite this framework with attribution.
+The MIT License is used for distribution simplicity only.
+The contents constitute a non-software, non-normative analytical framework
+and do not imply implementation, operational guidance, or governance authority.
+
+
