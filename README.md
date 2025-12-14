@@ -1,4 +1,5 @@
-# AXIS RECOGNITION & COEXISTENCE FRAMEWORK
+IP Axis Recognition & Coexistence Framework
+
 
 ## Status
 Public reference framework · Non-normative · Non-binding · No organization · No platform
@@ -108,5 +109,6 @@ This repository is distributed under the MIT License.
 The MIT License is used for distribution simplicity only.
 The contents constitute a non-software, non-normative analytical framework
 and do not imply implementation, operational guidance, or governance authority.
+
 
 
